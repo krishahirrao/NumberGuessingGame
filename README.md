@@ -26,17 +26,17 @@ The user keeps guessing until:
 - Or run out of attempts ❌
 
   ## 🖥️ Example Gameplay
-  Welcome to number guessing game!
-I am thinking of a number between 1 and 100
-Choose a difficulty. Type 'easy' or 'hard': easy
+- Welcome to number guessing game!
+- I am thinking of a number between 1 and 100
+- Choose a difficulty. Type 'easy' or 'hard': easy
 
-You have 10 guesses left
-Make a guess: 50
-Too high!
+- You have 10 guesses left
+- Make a guess: 50
+- Too high!
 
-You have 9 guesses left
-Make a guess: 25
-Too low!
+- You have 9 guesses left
+- Make a guess: 25
+- Too low!
 
 ---
 
@@ -59,4 +59,4 @@ This is a console-based project made for learning purposes.
 
 ---
 
-## 🖥️ Example Gameplay
+
